@@ -1,7 +1,7 @@
 +++
 title = "Logs Router with Firelens"
 date = 2024
-weight = 2
+weight = 3
 chapter = false
-pre = "<b>8.2. </b>"
+pre = "<b>9.3. </b>"
 +++

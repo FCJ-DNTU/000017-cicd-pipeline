@@ -1,5 +1,5 @@
 +++
-title = "Monitoring"
+title = "Application Monitoring with Container Insights (CloudWatch)"
 date = 2024
 weight = 8
 chapter = false
