@@ -34,15 +34,15 @@ In this section, we will learn how to implement automated application deployment
 
 #### Content
 
-1. []()
+1. [Github repository](1-github)
 
-2. []()
+2. [Create CodeBuild Frontend](2-create-code-build-fe)
 
-3. []()
+3. [Create CodeBuild Backend](3-create-code-build-be)
 
-4. []()
+4. [Create tag](4-create-tag)
 
-5. []()
+5. [Check result](5-result)
 
 After completing this module, you will be able to:
 - Set up and manage CI/CD pipeline with CodeBuild triggered by Github Repository

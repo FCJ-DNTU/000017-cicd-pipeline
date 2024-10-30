@@ -34,15 +34,15 @@ Trong phần này, chúng ta sẽ tìm hiểu cách triển khai ứng dụng t�
 
 #### Nội dung
 
-1. []()
+1. [Github repository](1-github)
 
-2. []()
+2. [Create CodeBuild Frontend](2-create-code-build-fe)
 
-3. []()
+3. [Create CodeBuild Backend](3-create-code-build-be)
 
-4. []()
+4. [Create tag](4-create-tag)
 
-5. []()
+5. [Check result](5-result)
 
 Sau khi hoàn thành module này, bạn sẽ có khả năng:
 - Thiết lập và quản lý CI/CD pipeline với CodeBuild trigger bởi Github Repository
