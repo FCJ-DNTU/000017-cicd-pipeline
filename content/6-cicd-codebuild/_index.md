@@ -9,5 +9,7 @@ pre = "<b>6. </b>"
 #### Content
 
 1. [Setup Github](1-github)
-2. [Create CodeBuild](2-codebuild)
-3. [Check result](3-result)
+2. [Create CodeBuild Frontend](2-create-code-build-fe)
+3. [Create CodeBuild Backend](3-create-code-build-be)
+4. [Create tag](4-create-tag)
+5. [Check result](5-result)
