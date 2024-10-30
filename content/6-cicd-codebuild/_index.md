@@ -42,7 +42,7 @@ In this section, we will learn how to implement automated application deployment
 
 4. [Create tag](4-create-tag)
 
-5. [Check result](5-result)
+5. [Check result](5-result) 
 
 After completing this module, you will be able to:
 - Set up and manage CI/CD pipeline with CodeBuild triggered by Github Repository
