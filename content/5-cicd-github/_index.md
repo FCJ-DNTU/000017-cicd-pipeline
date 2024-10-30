@@ -1,6 +1,5 @@
 +++
 title = "CI/CD Deployment with Github Actions"
-title = "CI/CD Deployment with Github Actions"
 date = 2024
 weight = 5
 chapter = false
