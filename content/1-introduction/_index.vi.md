@@ -6,9 +6,6 @@ chapter = false
 pre = "<b>1. </b>"
 +++
 
-#### Kiến trúc
-
-![1](/images/.png)
 
 #### Github Action CI/CD
 

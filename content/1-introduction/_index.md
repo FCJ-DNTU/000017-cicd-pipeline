@@ -6,10 +6,6 @@ chapter = false
 pre = "<b>1. </b>"
 +++
 
-#### Architecture
-
-![1](/images/.png)
-
 #### Github Action CI/CD
 
 **GitHub Actions** is an integrated automation service on GitHub that allows you to automate software development workflows from code testing to application deployment, making it easy to set up CI/CD (Continuous Integration/Continuous Deployment).
