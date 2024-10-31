@@ -17,7 +17,7 @@ Fork Repository allows you to create an independent copy of the original reposit
 1. Initialize Fork
 ![Fork Button](/images/4-cicd-gitlab/4.1.1.png)
 
-- Access the original repository at [aws-fcj-container-app](https://gitlab.com/fcj-lab/aws-fcj-container-app)
+- Access the original repository at [aws-fcj-container-app](https://gitlab.com/awsfirstcloudjourney/aws-fcj-container-app)
 - Locate and click the "Fork" button in the top right corner
 
 2. Configure Fork
