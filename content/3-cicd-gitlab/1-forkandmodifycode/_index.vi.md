@@ -17,7 +17,7 @@ Fork Repository cho phép bạn tạo một bản sao độc lập của reposit
 1. Khởi tạo Fork
 ![Fork Button](/images/4-cicd-gitlab/4.1.1.png)
 
-- Truy cập repository gốc tại [aws-fcj-container-app](https://gitlab.com/fcj-lab/aws-fcj-container-app)
+- Truy cập repository gốc tại [aws-fcj-container-app](https://gitlab.com/awsfirstcloudjourney/aws-fcj-container-app)
 - Tìm và nhấn nút "Fork" ở góc trên bên phải
 
 2. Cấu hình Fork
